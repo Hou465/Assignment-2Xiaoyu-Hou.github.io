@@ -1,14 +1,14 @@
 # Assignment-2Xiaoyu-Hou201078224.github.io
  planning for drunks
 ## Main Steps
- 1.Pull in the data file and finds out the pub point and the home points.
- 2.Draws the pub and homes on the screen.
- 3.Models the drunks leaving their pub and reaching their homes, and stores how many drunks pass through each point on the map.
- 4.Draws the density of drunks passing through each point on a map.
- 5.Saves the density map to a file as text.
+### 1.Pull in the data file and finds out the pub point and the home points.
+### 2.Draws the pub and homes on the screen.
+### 3.Models the drunks leaving their pub and reaching their homes, and stores how many drunks pass through each point on the map.
+### 4.Draws the density of drunks passing through each point on a map.
+### 5.Saves the density map to a file as text.
 # Contents (a simple list of what all the files/directories are)
- untitled0.py
- WorkFINAL.py
+### untitled0.py
+### WorkFINAL.py
 ## Liscence
 # Softerware is Python
 # How it can be run 
