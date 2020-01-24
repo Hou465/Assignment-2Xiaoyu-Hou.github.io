@@ -1,5 +1,7 @@
 # Assignment-2Xiaoyu-Hou201078224.github.io
  planning for drunks
+## Descriptions 
+### The basic algorithm is, for each drunk (who will have numbers between 10 and 250 assigned before leaving the pub), move the drunk randomly left/right/up/down in a loop that picks randomly the way it will go. When it hits the correctly numbered house, stop the process and start with the next drunk. At each step for each drunk, add one to the density for that point on the map.
 ## Main Steps
 ### 1.Pull in the data file and finds out the pub point and the home points.
 ### 2.Draws the pub and homes on the screen.
