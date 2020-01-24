@@ -7,8 +7,8 @@
 ### 4.Draws the density of drunks passing through each point on a map.
 ### 5.Saves the density map to a file as text.
 # Contents (a simple list of what all the files/directories are)
-### untitled0.py
-### WorkFINAL.py
+### untitled.py(my agentframework)
+### WorkFINAL3.py(my module)
 ## Liscence
 # Softerware is Python
 # How it can be run 
