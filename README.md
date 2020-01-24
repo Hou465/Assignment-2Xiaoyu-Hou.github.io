@@ -22,6 +22,8 @@ C:\Users\lenovo\Documents\GitHub\201078224Assignment1.github.io>WorkFINAL.py
 Click 'File'---Open---Find the directory of your ---Click 'Run'
 # What is to be expected when it is run
 ## You can see drunks start from the bar,walk randomly till they get home,and a density map is created.
+
+![densityplot](https://github.com/Hou465/Assignment-2Xiaoyu-Hou.github.io/blob/master/density.png)
 # Authors 
 ## Xiaoyu Hou 201078224
 # License
